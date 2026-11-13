@@ -249,9 +249,9 @@
 ### 12. Pe̍h-ōe-jī 一看就知：`Thn̂g` 佮 `Thâng` 差佇佗位？
 *(Pe̍h-ōe-jī chi̍t khòaⁿ tō chai: Thn̂g kap Thâng chha tī tó-ūi?)*
 
-- **店仔內底笑詼場面**：  
-  **「媽媽！我想欲食蟲 (`chia̍h-thâng`)！阿公逐工攏買蟲 (`thâng`) 予我食！！」**  
-  *(“Ma-ma! Góa siūⁿ-beh chia̍h-thâng! A-kong ta̍k-kang lóng bóe thâng hō͘ góa chia̍h!!”)*
+- **營隊洗 ò-giô 笑詼場面**：  
+  有一回營隊洗 `ò-giô`，囡仔欲加糖，毋過囡仔講：**「老師，我欲食蟲 (`thâng`)！」**  
+  *(Ū chi̍t hôe iâⁿ-tūi sé ò-giô, gín-á beh ke thn̂g, m̄-koh gín-á kóng: “Lāu-su, góa beh chia̍h thâng!”)*
 - **🍬 食糖 (`Chia̍h-thn̂g`)**：【`-n̂g`】喙毋免擘大，氣流對鼻空共鳴，甜甜好食！
 - **🐛 食蟲 (`Chia̍h-thâng`)**：【`-âng`】中語「糖」ê 音傷像台語 `thâng`，一講錯，路人聽著攏驚甲退三步！
 - 💡 **Pe̍h-ōe-jī ê 好處**：中語「糖」佮台語「蟲 (`thâng`)」音傷近，囡仔才會討糖煞講欲食蟲；寫做 `thn̂g` 佮 `thâng`，發音差佇佗位隨看得出來！
