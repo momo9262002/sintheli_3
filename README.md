@@ -39,5 +39,7 @@
     - 「三則笑詼」改為「三 ê 笑詼」（`Saⁿ ê chhiò-khoe`）。
   - **Slide 15（結語）**：
     - `po-lê-chhiûⁿ` 改為 `po-lê-chhiôⁿ`。
+  - **Slide 16（生活日常對話）**：
+    - 移除「來食糖 (`chia̍h-thn̂g`) 喔！」（`“Lâi chia̍h-thn̂g--o͘h!”`）。
 - **新增 `README.md`**
   - 建立專案說明與修訂歷史紀錄。

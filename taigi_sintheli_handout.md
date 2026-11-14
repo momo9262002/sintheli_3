@@ -307,7 +307,7 @@
 - [ ] **第 2 步：洗面照鏡時，叫出三个身體台語名** (`Sé-bīn chiò-kiàⁿ sî, kiò-chhut saⁿ ê sin-thé Tâi-gí miâ`)  
   摸家己 ê「目眉 (`ba̍k-bái`)」、「手節／手目 (`chhiú-chat / chhiú-ba̍k`)」、「跤後蹬 (`kha-āu-teⁿ`)」，感謝身軀逐工 ê 辛勞。
 - [ ] **第 3 步：親像「飼佛祖」，逐工一句台語疼惜厝內人** (`Chhin-chhiūⁿ “Chhī Pu̍t-chó͘”, ta̍k-kang chi̍t kù Tâi-gí thiàⁿ-sioh chhù-lāi-lâng`)  
-  對囡仔抑是牽手講：「食飽未？」、「今仔日辛苦矣！」、「來食糖 (`chia̍h-thn̂g`) 喔！」
+  對囡仔抑是牽手講：「食飽未？」、「今仔日辛苦矣！」
 
 ---
 
