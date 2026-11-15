@@ -327,14 +327,7 @@
 ### 17. 結語：🔑 母語就是入去靈魂深處 ê 鑰匙——「台語毋免等破病才講，台語早早就活佇咱 ê 身體佮生活內底！」
 *(Bó-gí tō sī ji̍p-khì lêng-hûn chhim-chhù ê só-sî — “Tâi-gí m̄-bián tán phòa-pēⁿ chiah kóng, Tâi-gí chá-chá tō oa̍h tī lán ê sin-thé kap seng-oa̍h lāi-té!”)*
 
-#### 🙋 逐家定問 ê 問題 (Q&A 全 3 題展開)
-
-- **Q1：我家己講台語「袂輾轉 (`bē liàn-tńg`)」，佇病院抑是厝內講毋著予人笑按怎辦？**  
-  *(Góa ka-kī kóng Tâi-gí “bē liàn-tńg”, tī pēⁿ-īⁿ iah-sī chhù-lāi kóng m̄-tio̍h hō͘ lâng chhiò án-chóaⁿ pān?)*  
-  **護理師 ê 回應**：全然毋免驚！老大人看著少年人願意開喙講台語，感心都赴袂著矣！總是真誠講一句：「阿公歹勢，我台語講較袂輾轉，你共我教好無？」病人隨變做你 ê 台語先生，信任感一下仔就建立起來！
-- **Q2：戴仁壽醫師 ê《內外科看護學》已經超過一百年，現代人讀 Pe̍h-ōe-jī 敢會誠生份？**  
-  *(Tè Jîn-siū i-seng ê “Lāi-gōa-kho Khàn-hō͘-ha̍k” í-keng chhiau-kòe chi̍t-pah nî, hiān-tāi-lâng tha̍k Pe̍h-ōe-jī kám ē chiâⁿ seⁿ-hūn?)*  
-  **護理師 ê 回應**：一點仔都袂生份！Pe̍h-ōe-jī 上迷人 ê 所在，就是照音讀出聲，佇 ChhoeTaigi 辭典一查，會發現內底九成 ê 身體詞彙（發身熱、喘氣、落屎、腰子）佮今仔日阿公阿媽講--ê 攏仝款！
-- **Q3：厝內若無全母語環境，按怎予囡仔對「食糖變食蟲」進步到自然講台語？**  
-  *(Chhù-lāi nā bô choân bó-gí khoân-kéng, án-chóaⁿ hō͘ gín-á tùi “chia̍h-thn̂g piàn chia̍h-thâng” chìn-pō͘ kàu chū-jiân kóng Tâi-gí?)*  
-  **護理師 ê 回應**：千萬毋通共台語當做考試科目一直改伊！愛共台語變做身體 ê 𨑨迌：洗身軀時摸耳仔、洗肚臍；食飯時講「甜甜、鹹鹹、芳貢貢」，予台語聲調綴笑聲入去身體內底，喙舌自然就活起來！
+- **線頂提問 ＆ 交流 (`Sòaⁿ-téng Thê-mn̄g & Kau-liû`)**：多謝逐家，勞力！歡迎開麥克風抑是佇留話區提問交流！
+- **參考冊目佮辭典 (`Chham-khó chheh-bo̍k kap sû-tián`)**：
+  - 《內外科看護學》(`Lāi-gōa-kho Khàn-hō͘-ha̍k`)：https://sinliongtoo.github.io/laigoakho_Tejinsiu_ebook/#/
+  - ChhoeTaigi 找台語：https://chhoe.taigi.info/

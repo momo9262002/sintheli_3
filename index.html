@@ -495,28 +495,6 @@
       }
     ];
 
-    // 100% Pure Taigi Q&A Data
-    const QA_CARDS = [
-      {
-        qPoj: "Q1: Góa ka-kī kóng Tâi-gí “bē liàn-tńg”, tī pēⁿ-īⁿ iah-sī chhù-lāi kóng m̄-tio̍h hō͘ lâng chhiò án-chóaⁿ pān?",
-        qHanlo: "Q1：我家己講台語「袂輾轉 (bē liàn-tńg)」，佇病院抑是厝內講毋著予人笑按怎辦？",
-        aPoj: "Hō͘-lí-su ê hōe-èng: Choân-jiân m̄-bián kiaⁿ! Lāu-tōa-lâng khòaⁿ-tio̍h siàu-liân-lâng goān-ì khui-chhùi kóng Tâi-gí, kám-sim to hù-bē-tio̍h--ah! Chóng-sī chin-sêng kóng chi̍t kù: “A-kong pháiⁿ-sè, góa Tâi-gí kóng khah bē liàn-tńg, lí kā góa kà hó--bô?” Pēⁿ-lâng sûi piàn-chò lí ê Tâi-gí sian-siⁿ, sìn-jīm-kám chi̍t-ē-á tō kiàn-li̍p--khí-lâi!",
-        aHanlo: "護理師 ê 回應：全然毋免驚！老大人看著少年人願意開喙講台語，感心都赴袂著矣！總是真誠講一句：「阿公歹勢，我台語講較袂輾轉，你共我教好無？」病人隨變做你 ê 台語先生，信任感一下仔就建立起來！"
-      },
-      {
-        qPoj: "Q2: Tè Jîn-siū i-seng ê “Lāi-gōa-kho Khàn-hō͘-ha̍k” í-keng chhiau-kòe chi̍t-pah nî, hiān-tāi-lâng tha̍k Pe̍h-ōe-jī kám ē chiâⁿ seⁿ-hūn?",
-        qHanlo: "Q2：戴仁壽醫師 ê《內外科看護學》已經超過一百年，現代人讀 Pe̍h-ōe-jī 敢會誠生份？",
-        aPoj: "Hō͘-lí-su ê hōe-èng: Chi̍t-tiám-á to bē seⁿ-hūn! Pe̍h-ōe-jī siōng bê-lâng ê só͘-chāi, tō sī chiàu im tha̍k chhut siaⁿ, tī ChhoeTaigi sû-tián chi̍t chhâ, ē hoat-hiān lāi-té káu-siâⁿ ê sin-thé sû-lūi (hoat-sin-jia̍t, chhoán-khùi, làu-sái, io-chí) kap kin-á-ji̍t A-kong A-má kóng--ê lóng kāng-khoán!",
-        aHanlo: "護理師 ê 回應：一點仔都袂生份！Pe̍h-ōe-jī 上迷人 ê 所在，就是照音讀出聲，佇 ChhoeTaigi 辭典一查，會發現內底九成 ê 身體詞彙（發身熱、喘氣、落屎、腰子）佮今仔日阿公阿媽講--ê 攏仝款！"
-      },
-      {
-        qPoj: "Q3: Chhù-lāi nā bô choân bó-gí khoân-kéng, án-chóaⁿ hō͘ gín-á tùi “chia̍h-thn̂g piàn chia̍h-thâng” chìn-pō͘ kàu chū-jiân kóng Tâi-gí?",
-        qHanlo: "Q3：厝內若無全母語環境，按怎予囡仔對「食糖變食蟲」進步到自然講台語？",
-        aPoj: "Hō͘-lí-su ê hōe-èng: Chhian-bān m̄-thang kā Tâi-gí tòng-chò khó-chhì kho-bo̍k it-ti̍t kái--i! Ài kā Tâi-gí piàn-chò sin-thé ê chhit-thô: sé-sin-khu sî bong hīⁿ-á, sé tō͘-châi; chia̍h-pn̄g sî kóng “tiⁿ-tiⁿ, kiâm-kiâm, phang-kòng-kòng”, hō͘ Tâi-gí siaⁿ-tiāu tòe chhiò-siaⁿ ji̍p-khì sin-thé lāi-té, chhùi-chi̍h chū-jiân tō oa̍h--khí-lâi!",
-        aHanlo: "護理師 ê 回應：千萬毋通共台語當做考試科目一直改伊！愛共台語變做身體 ê 𨑨迌：洗身軀時摸耳仔、洗肚臍；食飯時講「甜甜、鹹鹹、芳貢貢」，予台語聲調綴笑聲入去身體內底，喙舌自然就活起來！"
-      }
-    ];
-
     const SLIDES = [
       // Slide 1: Cover
       {
@@ -1714,7 +1692,7 @@
         `,
         render: () => `
           <div class="slide-enter flex-1 grid grid-cols-1 lg:grid-cols-12 gap-6 p-6 sm:p-8 items-center ${clsPoj()}">
-            <div class="lg:col-span-5 rounded-2xl overflow-hidden border shadow-md relative min-h-[330px] flex flex-col justify-end">
+            <div class="lg:col-span-6 rounded-2xl overflow-hidden border shadow-md relative min-h-[340px] flex flex-col justify-end">
               <img src="${IMAGES.cover}" alt="Kiat-gí" class="absolute inset-0 w-full h-full object-cover" />
               <div class="relative z-10 bg-gradient-to-t from-slate-950/95 via-slate-900/80 to-transparent p-6 text-white space-y-2.5 pt-20 select-text">
                 <span class="text-xs font-bold px-2.5 py-1 rounded-full bg-amber-500 text-slate-950">✨ ${t("Kiat-gí", "結語")}</span>
@@ -1733,25 +1711,21 @@
               </div>
             </div>
 
-            <div class="lg:col-span-7 space-y-3.5">
-              <div>
+            <div class="lg:col-span-6 space-y-5">
+              <div class="p-6 rounded-2xl border-2 border-teal-600/30 theme-card shadow-sm space-y-3">
                 <span class="text-xs font-bold px-2.5 py-1 rounded-full bg-teal-700/15 text-teal-800 dark:text-teal-300">🙋 ${t("Sòaⁿ-téng Thê-mn̄g & Kau-liû", "線頂提問 ＆ 交流")}</span>
-                <h3 class="text-xl font-extrabold mt-1">${t("Ta̍k-ke tiāⁿ mn̄g ê būn-tê", "逐家定問 ê 問題")}</h3>
+                <h3 class="text-2xl font-extrabold leading-snug">
+                  ${t("To-siā ta̍k-ke, lō͘-la̍t!", "多謝逐家，勞力！")}
+                </h3>
+                <p class="text-sm theme-muted leading-relaxed">
+                  ${t(
+                    "Hoan-gêng khui be̍k-khek-hong iah-sī tī liû-ōe-khu thê-mn̄g kau-liû!",
+                    "歡迎開麥克風抑是佇留話區提問交流！"
+                  )}
+                </p>
               </div>
 
-              <div class="space-y-2.5">
-                ${QA_CARDS.map((item, idx) => `
-                  <div onclick="selectQa(${idx})" class="cursor-pointer p-4 rounded-xl border transition ${activeQaIdx===idx ? 'border-teal-600 theme-subtle shadow-sm' : 'theme-card opacity-85 hover:opacity-100'}">
-                    <div class="font-bold text-sm flex items-center justify-between gap-2">
-                      <span>${t(item.qPoj, item.qHanlo)}</span>
-                      <span class="text-xs text-teal-700 dark:text-teal-300 shrink-0">${activeQaIdx===idx ? '▼' : '▶'}</span>
-                    </div>
-                    ${activeQaIdx===idx ? `<p class="text-xs sm:text-sm mt-2 pt-2 border-t border-black/10 dark:border-white/10 leading-relaxed select-text">${t(item.aPoj, item.aHanlo)}</p>` : ''}
-                  </div>
-                `).join('')}
-              </div>
-
-              <div class="p-3 rounded-xl border border-dashed border-amber-600/50 flex flex-wrap items-center justify-between gap-2 text-xs">
+              <div class="p-4 rounded-xl border border-dashed border-amber-600/50 flex flex-wrap items-center justify-between gap-2 text-xs">
                 <span class="font-semibold">📚 ${t("Chham-khó chheh-bo̍k kap sû-tián:", "參考冊目佮辭典：")}</span>
                 <div class="flex items-center gap-2">
                   <a href="https://sinliongtoo.github.io/laigoakho_Tejinsiu_ebook/#/" target="_blank" class="px-2.5 py-1 rounded-lg bg-amber-600 text-white font-bold hover:bg-amber-700 transition poj-text">Lāi-gōa-kho Khàn-hō͘-ha̍k ↗</a>
