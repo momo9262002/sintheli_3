@@ -327,7 +327,7 @@
 ### 17. 結語：🔑 母語就是入去靈魂深處 ê 鑰匙——「台語毋是古董，台語早早就活佇咱 ê 身體佮生活內底！」
 *(Bó-gí tō sī ji̍p-khì lêng-hûn chhim-chhù ê só-sî — “Tâi-gí m̄ sī kó͘-tóng, Tâi-gí chá-chá tō oa̍h tī lán ê sin-thé kap seng-oa̍h lāi-té!”)*
 
-- **線頂提問 ＆ 交流 (`Sòaⁿ-téng Thê-mn̄g & Kau-liû`)**：多謝逐家，勞力！歡迎開麥克風抑是佇留話區提問交流！
+- **線頂提問 ＆ 交流 (`Sòaⁿ-téng Thê-mn̄g & Kau-liû`)**：多謝逐家，勞力！歡迎開聲音抑是佇留話區提問交流！
 - **參考冊目佮辭典 (`Chham-khó chheh-bo̍k kap sû-tián`)**：
   - 《內外科看護學》(`Lāi-gōa-kho Khàn-hō͘-ha̍k`)：https://sinliongtoo.github.io/laigoakho_Tejinsiu_ebook/#/
   - ChhoeTaigi 找台語：https://chhoe.taigi.info/
