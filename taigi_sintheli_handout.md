@@ -97,11 +97,11 @@
 *(“Chia̍h pah-saⁿ lia̍p” kap “Tó hó-sè”: Gí-giân cháu-cheng ê pēⁿ-pâng gō͘-hōe!)*
 
 #### ① 💊 食藥笑詼 (`Chia̍h-io̍h Chhiò-khoe`)：「食飽，三粒」走精變「食百三粒」！
-- **醫護本意**：「三餐食飽了後，食三粒藥仔。」 *(“Saⁿ-tǹg chia̍h-pá liáu-āu, chia̍h saⁿ lia̍p io̍h-á.”)*
+- **醫護本意**：「三頓食飽了後，食三粒藥仔。」 *(“Saⁿ-tǹg chia̍h-pá liáu-āu, chia̍h saⁿ lia̍p io̍h-á.”)*
 - **阿伯聽做**：「食百三粒（130 粒）！」 *(“Chia̍h pah-saⁿ lia̍p (130 lia̍p)!”)*
 - **笑詼場面**：半暝阿伯腹肚滾絞疼敲 119 送急診。醫生認真問伊食幾粒，阿伯拚凊汗喘氣講：「你叫我食百三粒，我吞到天光規罐吞甲賰無半粒，險險無命！」  
   *(Pòaⁿ-mî A-peh pak-tó͘ kún-ká-thiàⁿ khà 119 sàng kip-chín. I-seng jîn-chin mn̄g i chia̍h kúi lia̍p, A-peh piàⁿ-chhìn-kōaⁿ chhoán-khùi kóng: “Lí kiò góa chia̍h pah-saⁿ lia̍p, góa thun kàu thiⁿ-kng kui koàn thun kah chhun bô pòaⁿ lia̍p, hiám-hiám bô miā!”)*
-- **✅ 正確溫柔講法**：「三餐食飽，一擺食三粒 (`saⁿ lia̍p`)。」 *(“Saⁿ-tǹg chia̍h-pá, chi̍t pái chia̍h saⁿ lia̍p.”)*
+- **✅ 正確溫柔講法**：「三頓食飽，一擺食三粒 (`saⁿ lia̍p`)。」 *(“Saⁿ-tǹg chia̍h-pá, chi̍t pái chia̍h saⁿ lia̍p.”)*
 
 #### ② 🛌 看診笑詼 (`Khàn-chín Chhiò-khoe`)：「多喝水」走精變「倒好勢」！
 - **醫護本意**：「感冒無要緊，轉去愛多喝水。」 *(“Kám-mō͘ bô iàu-kín, tńg-khì ài to-hō-súi.”)*
