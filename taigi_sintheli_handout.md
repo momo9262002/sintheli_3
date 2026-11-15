@@ -60,10 +60,10 @@
   原來台語早就有誠完整 ê 解剖佮看護學！ (`Goân-lâi Tâi-gí chá tō ū chiâⁿ oân-chéng ê kái-phò͘ kap khàn-hō͘-ha̍k!`)
 
 > **🎙️ 講者講稿（台語漢羅）**  
-> 「正式開始進前，請線頂 ê 好朋友佇留言區拍一个數字：你若捌佇病院聽過『落漆台語』，請拍 **1**；若厝內有囡仔咧學講台語，請拍 **2**；若想欲看百年前 Pe̍h-ōe-jī 按怎寫醫學冊，請拍 **3**！」
+> 「正式開始進前，請線頂 ê 好朋友佇留話區拍一个數字：你若捌佇病院聽過『落漆台語』，請拍 **1**；若厝內有囡仔咧學講台語，請拍 **2**；若想欲看百年前 Pe̍h-ōe-jī 按怎寫醫學冊，請拍 **3**！」
 >
 > **🎙️ Kóng-chiá kóng-kó (Pe̍h-ōe-jī)**  
-> “Chèng-sek khai-sí chìn-chêng, chhiáⁿ sòaⁿ-téng ê hó-pêng-iú tī liû-giân-khu phah chi̍t ê sò͘-jī: Lí nā bat tī pēⁿ-īⁿ thiaⁿ-kòe ‘lak-chhat Tâi-gí’, chhiáⁿ phah **1**; nā chhù-lāi ū gín-á teh o̍h kóng Tâi-gí, chhiáⁿ phah **2**; nā siūⁿ-beh khòaⁿ pah-nî chêng Pe̍h-ōe-jī án-chóaⁿ siá i-ha̍k-chheh, chhiáⁿ phah **3**!”
+> “Chèng-sek khai-sí chìn-chêng, chhiáⁿ sòaⁿ-téng ê hó-pêng-iú tī liû-ōe-khu phah chi̍t ê sò͘-jī: Lí nā bat tī pēⁿ-īⁿ thiaⁿ-kòe ‘lak-chhat Tâi-gí’, chhiáⁿ phah **1**; nā chhù-lāi ū gín-á teh o̍h kóng Tâi-gí, chhiáⁿ phah **2**; nā siūⁿ-beh khòaⁿ pah-nî chêng Pe̍h-ōe-jī án-chóaⁿ siá i-ha̍k-chheh, chhiáⁿ phah **3**!”
 
 ---
 
@@ -137,9 +137,9 @@
 ### 6. 阿公阿媽 ê「痛」，台語分甲誠幼路！（全 5 種展開）
 *(A-kong A-má ê “thiàⁿ”, Tâi-gí hun kah chiâⁿ iù-lō͘!)*
 
-1. **⚡ 像針揻 (`Chhiūⁿ chiam ui`)**：「心肝像針咧揻！」 *(“Sim-koaⁿ chhiūⁿ chiam teh ui!”)*
+1. **⚡ 像針揻 (`Chhiōⁿ chiam ui`)**：「心肝像針咧揻！」 *(“Sim-koaⁿ chhiōⁿ chiam teh ui!”)*
    - **症頭**：親像針尖咧刺、咧揻 ê 痛。佇心筋欠血 (`sim-kun khiàm-huih`)、肋膜發炎 (`le̍k-mo̍h hoat-iâm`)、神經疼誠定看著。
-   - **聽無台語 ê 危險**：少年護理師若聽無「揻 (`ui`)」，病歷寫袂出來，就無法度隨判斷是心臟抑是神經 ê 症頭！
+   - **聽無台語 ê 危險**：護理師若聽無「揻 (`ui`)」，病歷寫袂出來，就無法度隨判斷是心臟抑是神經 ê 症頭！
 2. **🫁 胸坎實實 (`Heng-khám cha̍t-cha̍t`)**：「胸坎定定實實，中氣袂順！」 *(“Heng-khám tiāⁿ-tiāⁿ cha̍t-cha̍t, tiong-khì bē sūn!”)*
    - **症頭**：胸坎喘氣袂順。是肺積水、痚呴 (`he-ku`)，抑是心臟無力 ê 重要症頭。
    - **聽無台語 ê 危險**：阿公講「胸坎實 (`cha̍t`)」，毋是食傷飽！誠濟時陣是落 sàng-soh ê 警訊！
@@ -178,24 +178,24 @@
 ### 8. 原來咱 ê 身體，早就有上鬥搭 ê 台語名！（全 6 部位展開）
 *(Goân-lâi lán ê sin-thé, chá tō ū siōng tàu-tah ê Tâi-gí miâ!)*
 
-1. **🧠 頭殼佮腦髓 (`Thâu-khak kap Náu-chhé / Náu-chhóe`)**
-   - **古冊描寫**：《內外科看護學》：腦髓 (`náu-chhé`) 佮脊髓 (`chek-chhé`) 是神經 ê 中樞；神經（腦筋 `náu-kun`、腦線 `náu-sòaⁿ`）親像電信線 (`tiān-sìn-sòaⁿ`) 通四肢。
-   - **臨床看護**：看病人神智清楚無，問敢會「頭眩目暗 (`thâu-hîn-ba̍k-àm`)」抑是「烏暗眩 (`o͘-àm-hîn`)」。
+1. **🧠 頭殼佮腦髓 (`Thâu-khak kap Náu-chhé`)**
+   - **古冊描寫**：《內外科看護學》：腦髓 (`náu-chhé`) 佮脊髓 (`chek-chhé`) 是神經 ê 中樞，親像電線 (`tiān-sòaⁿ`) 通四肢。
+   - 看病人意識 (`ì-sek`) 清楚無，問敢會「頭眩目暗 (`thâu-hîn-ba̍k-àm`)」抑是「烏暗眩 (`o͘-àm-hîn`)」。
 2. **🫁 胸坎佮肺臟 (`Heng-khám kap Hì-chōng`)**
    - **古冊描寫**：《內外科看護學》：吸入空氣入肺臟 (`hì-chōng`)，血收酸素 (`sng-sò͘`)，將炭酸 (`thòaⁿ-sng`) 佮水氣 (`chúi-khì`) 呼出外面。
-   - **臨床看護**：算「呼吸（喘氣 `chhoán-khùi`）」、聽「痚呴 (`he-ku`)」佮痰聲，教病人對鼻空慢慢仔吸。
+   - 算「呼吸（喘氣 `chhoán-khùi`）」、聽「痚呴 (`he-ku`)」佮痰聲，教病人對鼻空慢慢仔吸。
 3. **🫀 心臟佮血脈 (`Sim-chōng kap Huih-me̍h`)**
-   - **古冊描寫**：《身體理》＆《看護學》：心臟親像水拹仔 (`chúi-hia̍p-á`)，對出世到死不時咧搏 (`phok`)，捒血流行全身。
-   - **臨床看護**：佇手腕「摸脈 (`bong me̍h`)」，聽心肝敢有「咇噗跳 (`phi̍h-pho̍k-thiàu`)」。
+   - **古冊描寫**：《身體理》＆《看護學》：心臟親像水拹仔 (`chúi-hia̍p-á`)，對出世到死不時咧搏 (`phok`)，捒血流全身。
+   - 佇手腕「摸脈 (`bong me̍h`)」，聽心肝敢有「咇噗跳 (`phi̍h-pho̍k-thiàu`)」。
 4. **🥣 腸肚佮脾胃 (`Tn̂g-tō͘ kap Pî-ūi`)**
-   - **古冊描寫**：《身體理》：食道落胃，消化五穀化做養分；大腸小腸司通泄。
-   - **臨床看護**：問腹肚敢會「膨風 (`phòng-hong`)」、「脹肚 (`tiùⁿ-tō͘`)」，抑是「落屎 (`làu-sái`)」。
-5. **💧 腎臟（腰子）佮膀胱 (`Sīn-chōng / Io-chí kap Pông-kong`)**
-   - **古冊描寫**：《內外科看護學》：腎臟（腰子 `io-chí`）對血裡分出尿佮排泄物 (`pâi-siat-mi̍h`)，對輸尿管 (`su-jiō-kúng`) 落膀胱做小便 (`siáu-piān`)。
-   - **臨床看護**：紀錄放尿量、檢查敢有 `kōaⁿ chúi`，問「放尿 (`pàng-jiō`) 敢會疼」。
+   - **古冊描寫**：《身體理》：食道落胃，消化食物；小腸吸收養分，大腸排出大便。
+   - 問腹肚敢會「膨風 (`phòng-hong`)」、「脹肚 (`tiùⁿ-tō͘`)」，抑是「落屎 (`làu-sái`)」。
+5. **💧 腰子佮膀胱 (`Io-chí kap Pông-kong`)**
+   - **古冊描寫**：《內外科看護學》：腰子 (`io-chí`) 對血裡分出尿佮排泄物 (`pâi-siat-mi̍h`)，對輸尿管 (`su-jiō-kńg`) 落膀胱做小便 (`siáu-piān`)。
+   - 紀錄放尿量、檢查敢有 `kōaⁿ chúi`，問「放尿 (`pàng-jiō`) 敢會疼」、「下身 (`ē-sin`) 會刺刺 (`chhì-chhì`) 無？」
 6. **🦴 筋骨佮手節 (`Kin-kut kap Chhiú-chat`)**
-   - **古冊描寫**：《身體理》：全身骨頭二百外支相接榫，筋肉 (`kun-bah`) 牽動行踏屈伸。
-   - **臨床看護**：共病人翻身，顧好「手目 (`chhiú-ba̍k`)」佮「跤後蹬 (`kha-āu-teⁿ`)」。
+   - **古冊描寫**：《身體理》：全身骨頭二百外支相接榫，筋肉 (`kin-bah`) 牽動行踏屈伸。
+   - 共病人翻身，顧好「手目 (`chhiú-ba̍k`)」佮「跤後蹬 (`kha-āu-teⁿ`)」。
 
 ---
 
@@ -204,11 +204,11 @@
 *(Pah-nî chêng ê Khàn-hō͘-ha̍k: Me̍h-phok, Thé-un, Ho͘-khip)*
 
 - **💓 脈搏 ＆ 摸脈 (`Me̍h-phok & Bong me̍h`)**  
-  佇手腕 ê 橈骨動脈摸脈，查脈 ê 緊慢佮勇弱 (`ióng-lám`)。  
-  *(Tī chhiú-óaⁿ ê jiâu-kut-tōng-me̍h bong me̍h, chhâ me̍h ê kín-bān kap ióng-lám (kiông-jio̍k).)*
+  佇手腕 ê 橈骨動脈摸脈，看脈 ê 緊慢佮勇弱 (`ióng-lám`)。  
+  *(Tī chhiú-óaⁿ ê jiâu-kut-tōng-me̍h bong me̍h, khòaⁿ me̍h ê kín-bān kap ióng-lám (kiông-jio̍k).)*
 - **🌡️ 體溫 ＆ 度針 (`Thé-un & Tō͘-chiam`)**  
-  用度針 (`tō͘-chiam`)下佇舌下 (`chi̍h-ē`) 抑是夾 (`ngoe̍h`) 佇`kòe-hīⁿ-khang`，檢溫紀錄熱度。  
-  *(Ēng tō͘-chiam hē tī chi̍h-ē iah-sī ngoe̍h tī kòe-hīⁿ-khang, kiám-un kì-lo̍k jia̍t-tō͘.)*
+  用度針 (`tō͘-chiam`)`khǹg`佇舌下 (`chi̍h-ē`) 抑是夾 (`ngoe̍h`) 佇`kòe-hīⁿ-khang`，檢溫紀錄熱度。  
+  *(Ēng tō͘-chiam khǹg tī chi̍h-ē iah-sī ngoe̍h tī kòe-hīⁿ-khang, kiám-un kì-lo̍k jia̍t-tō͘.)*
 - **🌬️ 呼吸 ＆ 喘氣 (`Ho͘-khip & Chhoán-khùi`)**  
   趁病人毋知咧算 ê 時，看胸坎佮腹肚起落，算一分鐘久。  
   *(Thàn pīⁿ-lâng m̄-chai teh sǹg ê sî, khòaⁿ heng-khám kap pak-tó͘ khí-lo̍h, sǹg chi̍t hun-cheng-kú.)*
@@ -294,7 +294,19 @@
    若無共同 ê 母語，阿公阿媽佮孫仔同桌食飯煞親像生份人。顧好台語，就是顧好世代相傳 ê 臍帶 (`châi-tòa`)！
 3. **🫀 身體佮土地 ê 根本 (`Sin-thé kap thó͘-tē ê kin-pún`)**  
    親像《身體理》佮《內外科看護學》所見證，台語佮 Pe̍h-ōe-jī 有完整 ê 知識。講家己 ê 話，雙跤才真正踏佇家己 ê 土地！  
-   *(Chhin-chhiūⁿ “Sin-thé-lí” kap “Lāi-gōa-kho Khàn-hō͘-ha̍k” só͘ kìⁿ-chèng, Tâi-gí kap Pe̍h-ōe-jī ū oân-chéng ê tì-sek. Kóng ka-kī ê ōe, siang-kha chiah chin-chiàⁿ ta̍h tī ka-kī ê thó͘-tē!)*
+   *(Chhin-chhiōⁿ “Sin-thé-lí” kap “Lāi-gōa-kho Khàn-hō͘-ha̍k” só͘ kìⁿ-chèng, Tâi-gí kap Pe̍h-ōe-jī ū oân-chéng ê tì-sek. Kóng ka-kī ê ōe, siang-kha chiah chin-chiàⁿ ta̍h tī ka-kī ê thó͘-tē!)*
+
+> **🎙️ 講者講稿（台語漢羅）**  
+> 「誠濟人共台語當做比賽、搬戲，抑是選舉場才講 ê 話。毋過做一位看盡生老病死 ê 護理師，我愛大聲講：**台語是生活必需品，是關鍵時刻 ê 急救包！**」  
+> 「台灣佇 **2025 年**已經正式入去**『超高齡社會』**（65 歲以上 ê 老大人占總人口比率超過 **20%**）。根據行政院主計總處公布 ê **2020 年（民國 109 年）**〈人口及住宅普查〉結果，台灣 65 歲以上長輩當中，主要講**台語** ê 比例高達 **65.9%**，主要講國語 ê 比例是 **28.5%**。對頂懸 ê 資料會當看見：**未來若無法度使用台語，就無法度佮這陣人溝通！**」  
+> 「捌有一个學生共我分享伊想欲做醫生 ê 故事，毋過伊感覺佇開刀房就毋免佮病人講話，無學台語嘛無要緊。伊實在想傷單純矣！手術進前 ê 評估（術前評估）愛佮病人溝通，敢講就毋免開喙嗎？」  
+> 「佇病房，伊關係著醫療安全佮病人 ê 尊嚴；佇厝內，伊拆掉阿公阿媽佮孫仔中央彼塊玻璃牆；佇咱家己身軀頂，伊接續百年前《身體理》ê 智慧。咱若干焦佇舞台頂講台語，台語會死佇博物館內底；咱愛佇飯桌講、佇病房講、佇店仔買糖仔時講！」
+>
+> **🎙️ Kóng-chiá kóng-kó (Pe̍h-ōe-jī)**  
+> “Chiâⁿ chē lâng kā Tâi-gí tòng-chò pí-sài, poaⁿ-hì, iah-sī soán-kú-tiûⁿ chiah kóng ê ōe. M̄-koh chò chi̍t ūi khòaⁿ-chīn seⁿ-lāu-pēⁿ-sí ê hō͘-lí-su, góa ài tōa-siaⁿ kóng: **Tâi-gí sī seng-oa̍h pit-su-phín, sī koan-kiàn sî-khek ê kip-kiù-pau!**”  
+> “Tâi-oân tī **2025 nî** í-keng chèng-sek ji̍p-khì **‘chhiau-ko-lêng siā-hōe’** (65 hòe í-siōng ê lāu-tōa-lâng chiàm chóng jîn-kháu chhiau-kòe **20%**). Kin-kì Hêng-chèng-īⁿ Chú-kè Chóng-chhù **2020 nî** *Jîn-kháu kap Chū-the̍h Phó͘-cha* kiat-kó, Tâi-oân 65 hòe í-siōng ê tióng-pòe tang-tiong, chú-iàu kóng **Tâi-gí** ê pí-lē koân kàu **65.9%**, chú-iàu kóng Kok-gí ê pí-lē sī **28.5%**. Tùi chit hāng chu-liāu ē-tàng khòaⁿ-kìⁿ: **bī-lâi nā bē-hiáu kóng Tâi-gí, tō bô-hoat-tō͘ kap chit tīn lâng kau-thong!**”  
+> “Bat ū chi̍t ê ha̍k-seng kā góa hun-hiáng i siūⁿ-beh chò i-seng ê kò͘-sū, m̄-koh i kám-kak tī khai-to-pâng tō m̄-bián kap pēⁿ-lâng kóng-ōe, bô o̍h Tâi-gí mā bô iàu-kín. I si̍t-chāi siūⁿ siuⁿ tan-sûn--ah! Chhiú-su̍t chìn-chêng ê pêng-kó͘ ài kap pēⁿ-lâng kau-thong, kám-kóng tō m̄-bián khui-chhùi--mah?”  
+> “Tī pēⁿ-pâng, i koan-hē tio̍h i-liâu an-choân kap pēⁿ-lâng ê chun-giâm; tī chhù-lāi, i thiah-tiāu A-kong A-má kap sun-á tiong-ng hit tè po-lê-chhiôⁿ; tī lán ka-kī sin-khu-téng, i chiap-sòa pah-nî chêng *Sin-thé-lí* ê tì-hūi. Lán nā kan-na tī bú-tâi téng kóng Tâi-gí, Tâi-gí ē sí tī phok-bu̍t-koán lāi-té; lán ài tī pn̄g-toh kóng, tī pēⁿ-pâng kóng, tī tiàm-á bóe thn̂g-á sî kóng!”
 
 ---
 
@@ -306,7 +318,7 @@
   「阿母，今仔日腰骨有較勇無？胸坎敢會實實 (`cha̍t-cha̍t`)？暗時好睏無？」
 - [ ] **第 2 步：洗面照鏡時，叫出三个身體台語名** (`Sé-bīn chiò-kiàⁿ sî, kiò-chhut saⁿ ê sin-thé Tâi-gí miâ`)  
   摸家己 ê「目眉 (`ba̍k-bái`)」、「手節／手目 (`chhiú-chat / chhiú-ba̍k`)」、「跤後蹬 (`kha-āu-teⁿ`)」，感謝身軀逐工 ê 辛勞。
-- [ ] **第 3 步：親像「飼佛祖」，逐工一句台語疼惜厝內人** (`Chhin-chhiūⁿ “Chhī Pu̍t-chó͘”, ta̍k-kang chi̍t kù Tâi-gí thiàⁿ-sioh chhù-lāi-lâng`)  
+- [ ] **第 3 步：親像「飼佛祖」，逐工一句台語疼惜厝內人** (`Chhin-chhiōⁿ “Chhī Pu̍t-chó͘”, ta̍k-kang chi̍t kù Tâi-gí thiàⁿ-sioh chhù-lāi-lâng`)  
   對囡仔抑是牽手講：「食飽未？」、「今仔日辛苦矣！」
 
 ---
