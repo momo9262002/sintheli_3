@@ -324,8 +324,8 @@
 ---
 
 ## Slide 17｜Part 5：結語 ＆ 提問 (Kiat-gí & Q&A) — 45:30 - 60:00（15 分鐘）
-### 17. 結語：🔑 母語就是入去靈魂深處 ê 鑰匙——「台語毋免等破病才講，台語早早就活佇咱 ê 身體佮生活內底！」
-*(Bó-gí tō sī ji̍p-khì lêng-hûn chhim-chhù ê só-sî — “Tâi-gí m̄-bián tán phòa-pēⁿ chiah kóng, Tâi-gí chá-chá tō oa̍h tī lán ê sin-thé kap seng-oa̍h lāi-té!”)*
+### 17. 結語：🔑 母語就是入去靈魂深處 ê 鑰匙——「台語毋是古董，台語早早就活佇咱 ê 身體佮生活內底！」
+*(Bó-gí tō sī ji̍p-khì lêng-hûn chhim-chhù ê só-sî — “Tâi-gí m̄ sī kó͘-tóng, Tâi-gí chá-chá tō oa̍h tī lán ê sin-thé kap seng-oa̍h lāi-té!”)*
 
 - **線頂提問 ＆ 交流 (`Sòaⁿ-téng Thê-mn̄g & Kau-liû`)**：多謝逐家，勞力！歡迎開麥克風抑是佇留話區提問交流！
 - **參考冊目佮辭典 (`Chham-khó chheh-bo̍k kap sû-tián`)**：
