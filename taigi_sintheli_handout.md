@@ -120,8 +120,8 @@
 #### ④ 😷 病房笑詼 (`Pēⁿ-pâng Chhiò-khoe`)：「脫口罩」走精變做「脫褲走」！
 - **護理師本意**：「入來量血壓，請脫口罩。」 *(“Ji̍p-lâi pōng hoeh-ap, chhiáⁿ thǹg khò͘ cháu.”)*
 - **阿公聽做**：「入來請『脫褲走 (`thǹg-khò͘-cháu`)』！」 *(“Ji̍p-lâi chhiáⁿ ‘thǹg khò͘ cháu’ (thǹg-khò͘ tô-cháu)!”)*
-- **笑詼場面**：阿公雙手共褲頭搝牢牢，跤步連退三步，行到壁邊礙虐講：「護士小姐，我干焦來量一下血壓爾，哪會到遮雄雄愛脫褲走？！」  
-  *(A-kong siang-chhiú kā khò͘-thâu giú-tiâu-tiâu, kha-pō͘ liân thè saⁿ pō͘, kiâⁿ kàu piah-piⁿ gāi-gio̍h kóng: “Hō͘-sū sió-chiá, góa kan-na lâi pōng chi̍t-ē hoeh-ap niâ, ná-ē kàu chia hiông-hiông ài thǹg-khò͘-cháu?!”)*
+- **笑詼場面**：阿公雙手共褲頭搝牢牢，跤退三步，行到壁邊礙虐講：「護士小姐，我干焦來量一下血壓爾，哪會到遮雄雄愛脫褲走？！」  
+  *(A-kong siang-chhiú kā khò͘-thâu giú-tiâu-tiâu, kha thè saⁿ pō͘, kiâⁿ kàu piah-piⁿ gāi-gio̍h kóng: “Hō͘-sū sió-chiá, góa kan-na lâi pōng chi̍t-ē hoeh-ap niâ, ná-ē kàu chia hiông-hiông ài thǹg-khò͘-cháu?!”)*
 - **✅ 正確溫柔講法**：「阿公，喙掩 (`chhùi-am`) 共提落來。」 *(“A-kong, chhùi-am kā the̍h lo̍h-lâi.”)*
 
 #### ⑤ ⚰️ 急診笑詼 (`Kip-chín Chhiò-khoe`)：「觀察室」聽做「棺材室」！
