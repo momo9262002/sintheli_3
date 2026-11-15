@@ -63,7 +63,7 @@
 > 「正式開始進前，請線頂 ê 好朋友佇留話區拍一个數字：你若捌佇病院聽過『落漆台語』，請拍 **1**；若厝內有囡仔咧學講台語，請拍 **2**；若想欲看百年前 Pe̍h-ōe-jī 按怎寫醫學冊，請拍 **3**！」
 >
 > **🎙️ Kóng-chiá kóng-kó (Pe̍h-ōe-jī)**  
-> “Chèng-sek khai-sí chìn-chêng, chhiáⁿ sòaⁿ-téng ê hó-pêng-iú tī liû-ōe-khu phah chi̍t ê sò͘-jī: Lí nā bat tī pēⁿ-īⁿ thiaⁿ-kòe ‘lak-chhat Tâi-gí’, chhiáⁿ phah **1**; nā chhù-lāi ū gín-á teh o̍h kóng Tâi-gí, chhiáⁿ phah **2**; nā siūⁿ-beh khòaⁿ pah-nî chêng Pe̍h-ōe-jī án-chóaⁿ siá i-ha̍k-chheh, chhiáⁿ phah **3**!”
+> “Chèng-sek khai-sí chìn-chêng, chhiáⁿ sòaⁿ-téng ê hó-pêng-iú tī lâu-ōe-khu phah chi̍t ê sò͘-jī: Lí nā bat tī pēⁿ-īⁿ thiaⁿ-kòe ‘lak-chhat Tâi-gí’, chhiáⁿ phah **1**; nā chhù-lāi ū gín-á teh o̍h kóng Tâi-gí, chhiáⁿ phah **2**; nā siūⁿ-beh khòaⁿ pah-nî chêng Pe̍h-ōe-jī án-chóaⁿ siá i-ha̍k-chheh, chhiáⁿ phah **3**!”
 
 ---
 
