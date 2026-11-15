@@ -110,11 +110,11 @@
   *(A-kong tńg-khì chhù--lāi, tó tī bîn-chhn̂g, kha-chhiú pàng ti̍t-ti̍t, liân tiám-sim to m̄-káⁿ chia̍h. A-má kiò i, i siū-khì hoah: “I-seng bēng-lēng góa ài tó hó-sè, lí mài tī hia o͘-pe̍h hoah!”)*
 - **✅ 正確溫柔講法**：「轉去愛較捷 (chia̍p) 啉滾水 (`lim kún-chúi`)。」 *(“Tńg-khì ài khah chia̍p lim kún-chúi.”)*
 
-#### ③ 🏃 檢查笑詼 (`Kiám-cha Chhiò-khoe`)：照 X 光算「1、2、3 照！」變「1、2、3 走！」
+#### ③ 🏃 檢查笑詼 (`Kiám-cha Chhiò-khoe`)：照電光算「1、2、3 照！」變「1、2、3 走！」
 - **放射師本意**：「吸氣、禁氣，算到 3 隨『照 (`chiò`)』！」 *(“Suh-khùi, kìm-khùi, sǹg kàu 3 sûi ‘chiò’!”)*
 - **阿媽聽做**：「吸氣禁氣，算到 3 隨『走 (`cháu`)』！」 *(“Suh-khùi kìm-khùi, sǹg kàu 3 sûi ‘cháu’!”)*
-- **笑詼場面**：跤步算到 3，阿媽掠準機器欲爆炸，無喘氣拍開門對 X 光室傱出去！那走那唸：「夭壽喔！叫我莫喘氣閣叫我一直走，是欲狂死老大人喔！」  
-  *(Kha-pō͘ sǹg kàu 3, A-má lia̍h-chún ke-khì beh po̍k-chà, bô-chhoán-khùi phah-khui mn̂g tùi X-kng-sek chông chhut--khì! Ná cháu ná liām: “Iau-siū--o͘h! Kiò góa mài chhoán-khùi koh kiò góa ti̍t-ti̍t cháu, sī beh kông sí lāu-tōa-lâng--o͘h!”)*
+- **笑詼場面**：跤步算到 3，阿媽掠準機器欲爆炸，無喘氣拍開門對電光室傱出去！那走那唸：「夭壽喔！叫我莫喘氣閣叫我一直走，是欲狂死老大人喔！」  
+  *(Kha-pō͘ sǹg kàu 3, A-má lia̍h-chún ke-khì beh po̍k-chà, bô-chhoán-khùi phah-khui mn̂g tùi tiān-kng-sek chông chhut--khì! Ná cháu ná liām: “Iau-siū--o͘h! Kiò góa mài chhoán-khùi koh kiò góa ti̍t-ti̍t cháu, sī beh kông sí lāu-tōa-lâng--o͘h!”)*
 - **✅ 正確溫柔講法**：「喘大氣，禁氣，莫振動 (`mài tín-tāng`)，隨好！」 *(“Chhoán-tōa-khùi, kìm-khùi, mài tín-tāng, sûi hó!”)*
 
 #### ④ 😷 病房笑詼 (`Pēⁿ-pâng Chhiò-khoe`)：「脫口罩」走精變做「脫褲走」！
